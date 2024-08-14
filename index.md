@@ -4,6 +4,10 @@
 #### Header 4
 Regular Text
 
+- [x] Item 1
+- [] Item 2
+- [x] Item 3
+
 **making bold text with double asterics**
 
 *italicized text with single asteric*
