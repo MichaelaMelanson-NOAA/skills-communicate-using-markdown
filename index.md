@@ -4,6 +4,12 @@
 #### Header 4
 Regular Text
 
+**making bold text with double asterics**
+*italicized text with single asteric*
+***bold and italicized is three asterics***
+
+🐡 🦈
+
 ```
 library(dplyr)
 newdata <- mtcars %>%
