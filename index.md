@@ -8,6 +8,10 @@ Regular Text
 - [] Item 2
 - [x] Item 3
 
+#### regular unchekc list 
+- list item 1
+- list item 2
+
 **making bold text with double asterics**
 
 *italicized text with single asteric*
