@@ -4,4 +4,4 @@
 #### Header 4
 Regular Text
 
-[Octocat Scuba Diver](https://octodex.github.com/images/scubatocat.png)
+![Octocat Scuba Diver](https://octodex.github.com/images/scubatocat.png)
